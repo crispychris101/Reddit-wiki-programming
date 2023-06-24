@@ -21,17 +21,17 @@ You can look up the pros and cons of learning each with a quick google search of
 ### Python(Resources)
 
 + https://www.codecademy.com/catalog/language/python [Recommended]
-+ https://www.youtube.com/playlist?list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU
-+ https://www.youtube.com/watch?v=rfscVS0vtbw
++ https://www.youtube.com/playlist?list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU ( 
++ https://www.youtube.com/watch?v=rfscVS0vtbw( thus and the bottom one are the same)
 + https://www.youtube.com/watch?v=rfscVS0vtbw&list=PLWKjhJtqVAbnqBxcdjVGgT3uVR10bzTEB
-+ https://www.youtube.com/watch?v=8ext9G7xspg
-+ https://www.youtube.com/watch?v=8DvywoWv6fI
-+ https://www.udacity.com/course/data-structures-and-algorithms-in-python--ud513?irclickid=T4iyYGz1BxyLRoUwUx0Mo3EFUkEwt01MDzuOQA0&irgwc=1&utm_source=affiliate&utm_medium=&aff=259799&utm_term=&utm_campaign=__&utm_content=&adid=788805
-+ https://www.coursera.org/projects/introduction-to-python
-+ https://runestone.academy/runestone/books/published/pythonds/index.html
-+ https://www.geeksforgeeks.org/python-programming-language/
-+ https://futurecoder.io/
-+ https://www.fullstackpython.com/
++ https://www.youtube.com/watch?v=8ext9G7xspg ( python projects ) 
++ https://www.youtube.com/watch?v=8DvywoWv6fI ( this is the everyone can code university ) 
++ https://www.udacity.com/course/data-structures-and-algorithms-in-python--ud513? irclickid=T4iyYGz1BxyLRoUwUx0Mo3EFUkEwt01MDzuOQA0&irgwc=1&utm_source=affiliate&utm_medium=&aff=259799&utm_term=&utm_campaign=__&utm_content=&adid=788805   ( intro data structure course ) 
++ https://www.coursera.org/projects/introduction-to-python ( python projects ) 
++ https://runestone.academy/runestone/books/published/pythonds/index.html ( another data structiure course)
++ https://www.geeksforgeeks.org/python-programming-language/    ( just goes over a lot of python and aplications)
++ https://futurecoder.io/ ( intro python stuff) 
++ https://www.fullstackpython.com/   ( fullstack stuff)
 + https://automatetheboringstuff.com/
 + https://youtube.com/playlist?list=PL6gx4Cwl9DGAcbMi1sH6oAMk4JHw91mC_
 + https://techdevguide.withgoogle.com/
